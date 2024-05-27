@@ -13,7 +13,8 @@ Go to the Body tab and select raw.
 
 Set the type to JSON.
 click on send 
-After this data from the csv file will be saved on your database mongodb
+After this data from the csv file will be saved on your database mongodb and use post http method
+
 execute this api with {
   "timestamp": "2022-09-27 12:00:00"
 } in body part of api 
